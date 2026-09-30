@@ -2,6 +2,8 @@
 Discord bot in Fortran that interacts through a websocket
 This is the public repository for this project
 
+To build it, use the Fortran Package Manager (fpm)
+
 ## What to expect
 
 -Minimal but functional implementation of Discord's Gateway API
