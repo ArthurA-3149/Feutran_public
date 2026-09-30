@@ -1,0 +1,37 @@
+name = "Feurtran_Getaway"
+version = "0.1.0"
+license = "GPL-3.0"
+author = "ArthurA"
+maintainer = "https://github.com/ArthurAime"
+copyright = "Copyright 2026, ArthurA"
+
+[build]
+auto-executables = true
+auto-tests = true
+auto-examples = true
+module-naming = false
+
+[features]
+std.flags = ""
+std.gfortran.flags = "-funsigned"
+
+
+[profiles]
+default = ["std"]
+
+[install]
+library = false
+test = false
+
+[fortran]
+implicit-typing = false
+implicit-external = false
+source-form = "free"
+
+[dependencies]
+json-fortran = { git="https://github.com/jacobwilliams/json-fortran.git", branch="master"}
+fortran-curl = { git="https://github.com/interkosmos/fortran-curl"}
+stdlib = { git="https://github.com/fortran-lang/stdlib", branch="stdlib-fpm" }
+FortranSleep = { git="https://github.com/scivision/fortran-sleep.git" }
+http = { git = "https://github.com/fortran-lang/http-client.git" }
+

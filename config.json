@@ -1,0 +1,25 @@
+{
+  "token": "my token as a string",
+  "channels": [
+    "channels where I want the bot to react",
+	"another channel",
+	"input the id as strings"
+  ],
+  "servers": [
+	"servers where I want the bot to react in every chnnel",
+	"don't forget the comma after each element"
+  ],
+  "feurs": {
+	  "answers":[
+				"feur",
+				"coubeh",
+				"another answer",
+				"you can put links to images as well"
+				],
+	  "reactions":[
+			      ["%F0%9F%87%AB","%F0%9F%87%AA","%F0%9F%87%BA","%F0%9F%87%B7"],
+				  ["%F0%9F%87%A8","%F0%9F%87%B4","%F0%9F%87%BA","%F0%9F%87%A7","%F0%9F%87%AA","%F0%9F%87%AD"],
+				  ["chain of emojis to react", "put them in the correct order", "see discord API documentation for the correct way to code them"]
+				  ]
+  }
+}
