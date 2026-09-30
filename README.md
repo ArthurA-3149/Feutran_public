@@ -39,3 +39,5 @@ https://github.com/interkosmos/fortran-curl
 
 https://github.com/wcdawn/ftime
 
+https://github.com/fortran-lang/http-client
+
