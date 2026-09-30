@@ -13,7 +13,7 @@ This is the public repository for this project
 ## What is this bot
 
 Feurtran is an automated implementation of the French "quoi - feur" (and it's variant "quoi - coubeh") joke.
-If a message containing the string "quoi" appears in a channel or a server that is monitored, the bot answer to the message or uses
+If a message containing the string "quoi" appears in a channel or a server that is monitored, the bot answers to the message or uses
 emoji reactions according to what has been setup in the config.json file. It also reacts to the "FEURTRAN HELP" command.
 
 It works right out of the box on servers (reading private messages is possible but not configured in the provided code) as long as
