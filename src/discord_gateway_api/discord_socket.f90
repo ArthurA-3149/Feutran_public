@@ -1,4 +1,4 @@
-!https://github.com/ArthurAime/Feutran_public
+!https://github.com/ArthurA-3149/Feutran_public
 !Socket handling to connect a discord bot
 
 module discord_socket

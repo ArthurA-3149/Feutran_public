@@ -2,7 +2,7 @@ name = "Feurtran_Getaway"
 version = "0.1.0"
 license = "GPL-3.0"
 author = "ArthurA"
-maintainer = "https://github.com/ArthurAime"
+maintainer = "https://github.com/ArthurA-3149"
 copyright = "Copyright 2026, ArthurA"
 
 [build]

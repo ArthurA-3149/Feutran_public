@@ -1,4 +1,4 @@
-!https://github.com/ArthurAime/Feutran_public
+!https://github.com/ArthurA-3149/Feutran_public
 !Assume curl_off_t is a 64 bit integer
 !C binding for some missing functions of fortran-curl
 

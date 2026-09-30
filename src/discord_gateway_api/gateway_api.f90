@@ -1,4 +1,4 @@
-!https://github.com/ArthurAime/Feutran_public
+!https://github.com/ArthurA-3149/Feutran_public
 !Function to handle messages sent by discord's Gateway API
 
 module gateway_api

@@ -1,5 +1,5 @@
 !Adapted from https://github.com/MrGlockenspiel/skynet-fortran
-!https://github.com/ArthurAime/Feutran_public
+!https://github.com/ArthurA-3149/Feutran_public
 
 module discord_interact
 
