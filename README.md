@@ -30,7 +30,12 @@ Any hindsight on how to handle this peculiar type would be highly appreciated.
 ## Various projects that made this possible
 
 https://github.com/MrGlockenspiel/skynet-fortran the core of this whole project
+
 https://github.com/jacobwilliams/json-fortran
+
 https://github.com/scivision/fortran-sleep
+
 https://github.com/interkosmos/fortran-curl
+
 https://github.com/wcdawn/ftime
+
